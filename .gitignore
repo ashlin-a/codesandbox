@@ -1,0 +1,16 @@
+# Ignore common folders in all subprojects
+**/node_modules/
+**/.next/
+**/build/
+**/dist/
+**/.vercel/
+**/coverage/
+**/.vscode/
+**/.idea/
+
+# Ignore common files
+**/*.log
+**/*.pem
+**/*.tsbuildinfo
+**/.DS_Store
+**/.env*
